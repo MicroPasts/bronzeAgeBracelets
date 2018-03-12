@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="1.1.0">
+  <chunk>
+    <sensors>
+      <sensor id="0" label="Canon EOS 600D (42 mm)" type="frame">
+        <resolution width="5184" height="3456"/>
+      </sensor>
+      <sensor id="1" label="Canon EOS 600D (28 mm)" type="frame">
+        <resolution width="5184" height="3456"/>
+      </sensor>
+      <sensor id="2" label="Canon EOS 600D (42 mm)" type="frame">
+        <resolution width="5184" height="3456"/>
+      </sensor>
+      <sensor id="3" label="Canon EOS 600D (28 mm)" type="frame">
+        <resolution width="5184" height="3456"/>
+      </sensor>
+    </sensors>
+    <cameras>
+      <camera id="0" label="IMG_3569.JPG" sensor_id="0"/>
+      <camera id="1" label="IMG_3570.JPG" sensor_id="0"/>
+      <camera id="2" label="IMG_3571.JPG" sensor_id="0"/>
+      <camera id="3" label="IMG_3572.JPG" sensor_id="0"/>
+      <camera id="4" label="IMG_3573.JPG" sensor_id="0"/>
+      <camera id="5" label="IMG_3574.JPG" sensor_id="0"/>
+      <camera id="6" label="IMG_3575.JPG" sensor_id="0"/>
+      <camera id="7" label="IMG_3576.JPG" sensor_id="0"/>
+      <camera id="8" label="IMG_3577.JPG" sensor_id="0"/>
+      <camera id="9" label="IMG_3578.JPG" sensor_id="0"/>
+      <camera id="10" label="IMG_3579.JPG" sensor_id="0"/>
+      <camera id="11" label="IMG_3580.JPG" sensor_id="0"/>
+      <camera id="12" label="IMG_3581.JPG" sensor_id="0"/>
+      <camera id="13" label="IMG_3582.JPG" sensor_id="0"/>
+      <camera id="14" label="IMG_3583.JPG" sensor_id="0"/>
+      <camera id="15" label="IMG_3584.JPG" sensor_id="0"/>
+      <camera id="16" label="IMG_3585.JPG" sensor_id="0"/>
+      <camera id="17" label="IMG_3586.JPG" sensor_id="0"/>
+      <camera id="18" label="IMG_3587.JPG" sensor_id="0"/>
+      <camera id="19" label="IMG_3588.JPG" sensor_id="0"/>
+      <camera id="20" label="IMG_3589.JPG" sensor_id="0"/>
+      <camera id="21" label="IMG_3590.JPG" sensor_id="0"/>
+      <camera id="22" label="IMG_3591.JPG" sensor_id="0"/>
+      <camera id="23" label="IMG_3593.JPG" sensor_id="0"/>
+      <camera id="24" label="IMG_3594.JPG" sensor_id="0"/>
+      <camera id="25" label="IMG_3595.JPG" sensor_id="0"/>
+      <camera id="26" label="IMG_3596.JPG" sensor_id="0"/>
+      <camera id="27" label="IMG_3597.JPG" sensor_id="0"/>
+      <camera id="28" label="IMG_3598.JPG" sensor_id="0"/>
+      <camera id="47" label="IMG_3599.JPG" sensor_id="2"/>
+      <camera id="48" label="IMG_3600.JPG" sensor_id="2"/>
+      <camera id="49" label="IMG_3601.JPG" sensor_id="2"/>
+      <camera id="50" label="IMG_3602.JPG" sensor_id="2"/>
+      <camera id="51" label="IMG_3603.JPG" sensor_id="2"/>
+      <camera id="52" label="IMG_3604.JPG" sensor_id="2"/>
+      <camera id="53" label="IMG_3605.JPG" sensor_id="2"/>
+      <camera id="54" label="IMG_3606.JPG" sensor_id="2"/>
+      <camera id="55" label="IMG_3607.JPG" sensor_id="2"/>
+      <camera id="56" label="IMG_3608.JPG" sensor_id="2"/>
+      <camera id="57" label="IMG_3609.JPG" sensor_id="2"/>
+      <camera id="58" label="IMG_3610.JPG" sensor_id="2"/>
+      <camera id="59" label="IMG_3611.JPG" sensor_id="2"/>
+      <camera id="60" label="IMG_3612.JPG" sensor_id="2"/>
+      <camera id="61" label="IMG_3613.JPG" sensor_id="2"/>
+      <camera id="62" label="IMG_3614.JPG" sensor_id="2"/>
+      <camera id="63" label="IMG_3615.JPG" sensor_id="2"/>
+      <camera id="64" label="IMG_3616.JPG" sensor_id="2"/>
+      <camera id="65" label="IMG_3617.JPG" sensor_id="2"/>
+      <camera id="66" label="IMG_3618.JPG" sensor_id="2"/>
+      <camera id="67" label="IMG_3619.JPG" sensor_id="2"/>
+      <camera id="68" label="IMG_3620.JPG" sensor_id="2"/>
+      <camera id="69" label="IMG_3621.JPG" sensor_id="2"/>
+      <camera id="70" label="IMG_3622.JPG" sensor_id="2"/>
+      <camera id="71" label="IMG_3623.JPG" sensor_id="2"/>
+      <camera id="29" label="IMG_3624.JPG" sensor_id="1"/>
+      <camera id="30" label="IMG_3625.JPG" sensor_id="1"/>
+      <camera id="31" label="IMG_3626.JPG" sensor_id="1"/>
+      <camera id="32" label="IMG_3627.JPG" sensor_id="1"/>
+      <camera id="33" label="IMG_3628.JPG" sensor_id="1"/>
+      <camera id="34" label="IMG_3629.JPG" sensor_id="1"/>
+      <camera id="35" label="IMG_3630.JPG" sensor_id="1"/>
+      <camera id="36" label="IMG_3631.JPG" sensor_id="1"/>
+      <camera id="37" label="IMG_3632.JPG" sensor_id="1"/>
+      <camera id="38" label="IMG_3633.JPG" sensor_id="1"/>
+      <camera id="39" label="IMG_3634.JPG" sensor_id="1"/>
+      <camera id="40" label="IMG_3635.JPG" sensor_id="1"/>
+      <camera id="41" label="IMG_3636.JPG" sensor_id="1"/>
+      <camera id="42" label="IMG_3637.JPG" sensor_id="1"/>
+      <camera id="43" label="IMG_3638.JPG" sensor_id="1"/>
+      <camera id="44" label="IMG_3639.JPG" sensor_id="1"/>
+      <camera id="45" label="IMG_3640.JPG" sensor_id="1"/>
+      <camera id="46" label="IMG_3641.JPG" sensor_id="1"/>
+      <camera id="72" label="IMG_3642.JPG" sensor_id="3"/>
+      <camera id="73" label="IMG_3643.JPG" sensor_id="3"/>
+      <camera id="74" label="IMG_3644.JPG" sensor_id="3"/>
+      <camera id="75" label="IMG_3645.JPG" sensor_id="3"/>
+      <camera id="76" label="IMG_3646.JPG" sensor_id="3"/>
+      <camera id="77" label="IMG_3647.JPG" sensor_id="3"/>
+      <camera id="78" label="IMG_3648.JPG" sensor_id="3"/>
+      <camera id="79" label="IMG_3649.JPG" sensor_id="3"/>
+      <camera id="80" label="IMG_3650.JPG" sensor_id="3"/>
+      <camera id="81" label="IMG_3651.JPG" sensor_id="3"/>
+      <camera id="82" label="IMG_3652.JPG" sensor_id="3"/>
+      <camera id="83" label="IMG_3653.JPG" sensor_id="3"/>
+      <camera id="84" label="IMG_3654.JPG" sensor_id="3"/>
+      <camera id="85" label="IMG_3655.JPG" sensor_id="3"/>
+      <camera id="86" label="IMG_3656.JPG" sensor_id="3"/>
+      <camera id="87" label="IMG_3657.JPG" sensor_id="3"/>
+      <camera id="88" label="IMG_3658.JPG" sensor_id="3"/>
+      <camera id="89" label="IMG_3659.JPG" sensor_id="3"/>
+      <camera id="90" label="IMG_3660.JPG" sensor_id="3"/>
+    </cameras>
+    <markers>
+      <marker id="0" label="point 1"/>
+      <marker id="1" label="point 2"/>
+    </markers>
+    <scalebars>
+      <scalebar id="0" label="point 1_point 2">
+        <endpoint marker_id="0"/>
+        <endpoint marker_id="1"/>
+        <reference d="1.0000000000000001e-001" enabled="true"/>
+      </scalebar>
+    </scalebars>
+    <frames>
+      <frame id="0">
+        <markers>
+          <marker marker_id="0">
+            <location camera_id="0" pinned="true" x="1.6112460e+003" y="2.2191409e+003"/>
+            <location camera_id="1" pinned="true" x="1.4458064e+003" y="2.0708103e+003"/>
+            <location camera_id="28" pinned="true" x="1.5332095e+003" y="2.2492256e+003"/>
+          </marker>
+          <marker marker_id="1">
+            <location camera_id="0" pinned="true" x="4.0122083e+003" y="2.2492471e+003"/>
+            <location camera_id="1" pinned="true" x="3.8043994e+003" y="2.4105447e+003"/>
+            <location camera_id="28" pinned="true" x="3.9437434e+003" y="2.2399067e+003"/>
+          </marker>
+        </markers>
+      </frame>
+    </frames>
+    <settings>
+      <property name="accuracy_tiepoints" value="4.0000000000000000e+000"/>
+      <property name="accuracy_cameras" value="1.0000000000000000e+001"/>
+      <property name="accuracy_markers" value="5.0000000000000001e-003"/>
+      <property name="accuracy_scalebars" value="1.0000000000000000e-003"/>
+      <property name="accuracy_projections" value="1.0000000000000001e-001"/>
+    </settings>
+  </chunk>
+</document>

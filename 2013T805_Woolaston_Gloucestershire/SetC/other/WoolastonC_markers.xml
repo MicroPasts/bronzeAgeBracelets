@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="0.9.1">
+  <chunk>
+    <cameras>
+      <camera id="0" label="IMG_3749.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="1" label="IMG_3750.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="2" label="IMG_3751.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="3" label="IMG_3752.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="4" label="IMG_3753.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="5" label="IMG_3754.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="6" label="IMG_3755.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="7" label="IMG_3756.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="8" label="IMG_3757.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="9" label="IMG_3758.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="10" label="IMG_3759.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="11" label="IMG_3760.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="12" label="IMG_3761.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="13" label="IMG_3762.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="14" label="IMG_3763.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="15" label="IMG_3764.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="16" label="IMG_3765.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="17" label="IMG_3766.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="18" label="IMG_3767.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="19" label="IMG_3768.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="20" label="IMG_3769.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="21" label="IMG_3770.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="22" label="IMG_3771.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="23" label="IMG_3772.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="24" label="IMG_3773.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="25" label="IMG_3774.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="26" label="IMG_3775.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="27" label="IMG_3776.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="28" label="IMG_3777.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="29" label="IMG_3778.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="30" label="IMG_3779.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="31" label="IMG_3780.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="32" label="IMG_3781.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="33" label="IMG_3782.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="34" label="IMG_3783.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="35" label="IMG_3784.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="36" label="IMG_3785.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="37" label="IMG_3786.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="38" label="IMG_3787.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="39" label="IMG_3788.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="40" label="IMG_3789.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="41" label="IMG_3790.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="42" label="IMG_3791.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="43" label="IMG_3792.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="44" label="IMG_3793.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="45" label="IMG_3794.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="46" label="IMG_3795.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="47" label="IMG_3796.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="48" label="IMG_3797.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="49" label="IMG_3798.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="50" label="IMG_3799.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="51" label="IMG_3800.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="52" label="IMG_3801.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="53" label="IMG_3802.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="54" label="IMG_3803.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="55" label="IMG_3804.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="56" label="IMG_3805.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="57" label="IMG_3806.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="58" label="IMG_3807.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="59" label="IMG_3808.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="60" label="IMG_3809.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="61" label="IMG_3810.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="62" label="IMG_3811.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="63" label="IMG_3812.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="64" label="IMG_3813.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="65" label="IMG_3814.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="66" label="IMG_3815.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="67" label="IMG_3816.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="68" label="IMG_3817.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="69" label="IMG_3818.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="70" label="IMG_3819.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="71" label="IMG_3820.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="72" label="IMG_3821.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="73" label="IMG_3822.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="74" label="IMG_3823.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="75" label="IMG_3824.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="76" label="IMG_3825.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="77" label="IMG_3826.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="78" label="IMG_3827.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="79" label="IMG_3828.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="80" label="IMG_3829.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+      <camera id="81" label="IMG_3830.JPG">
+        <resolution width="5184" height="3456"/>
+      </camera>
+    </cameras>
+    <markers>
+      <marker id="0" label="point 1">
+        <location camera_id="0" frame="0" pinned="true" x="1.6656387e+03" y="2.2252820e+03"/>
+        <location camera_id="2" frame="0" pinned="true" x="1.2849171e+03" y="1.7102946e+03"/>
+        <location camera_id="4" frame="0" pinned="true" x="1.2609521e+03" y="1.1402626e+03"/>
+      </marker>
+      <marker id="1" label="point 2">
+        <location camera_id="0" frame="0" pinned="true" x="3.6152014e+03" y="2.2015459e+03"/>
+        <location camera_id="2" frame="0" pinned="true" x="2.9753245e+03" y="2.4374204e+03"/>
+        <location camera_id="4" frame="0" pinned="true" x="2.3034624e+03" y="2.3748740e+03"/>
+      </marker>
+      <marker id="2" label="point 3">
+        <location camera_id="52" frame="0" pinned="true" x="3.2407407e+03" y="1.4498668e+03"/>
+        <location camera_id="53" frame="0" pinned="true" x="2.9373193e+03" y="1.5234722e+03"/>
+        <location camera_id="54" frame="0" pinned="true" x="2.6138076e+03" y="1.5335178e+03"/>
+        <location camera_id="55" frame="0" pinned="true" x="2.3136743e+03" y="1.4606438e+03"/>
+        <location camera_id="68" frame="0" pinned="true" x="3.2923979e+03" y="1.5624034e+03"/>
+        <location camera_id="69" frame="0" pinned="true" x="3.0499436e+03" y="1.6435496e+03"/>
+        <location camera_id="70" frame="0" pinned="true" x="2.8098369e+03" y="1.6662981e+03"/>
+        <location camera_id="71" frame="0" pinned="true" x="2.5971440e+03" y="1.6609585e+03"/>
+      </marker>
+      <marker id="3" label="point 4">
+        <location camera_id="48" frame="0" pinned="true" x="3.2976377e+03" y="1.3273585e+03"/>
+        <location camera_id="49" frame="0" pinned="true" x="3.2078521e+03" y="1.4006335e+03"/>
+        <location camera_id="50" frame="0" pinned="true" x="3.0304509e+03" y="1.4678450e+03"/>
+        <location camera_id="51" frame="0" pinned="true" x="2.8650815e+03" y="1.5030337e+03"/>
+        <location camera_id="71" frame="0" pinned="true" x="3.1591675e+03" y="1.4533177e+03"/>
+        <location camera_id="72" frame="0" pinned="true" x="2.9954299e+03" y="1.4946621e+03"/>
+        <location camera_id="73" frame="0" pinned="true" x="2.7694346e+03" y="1.5130146e+03"/>
+      </marker>
+      <marker id="4" label="point 5">
+        <location camera_id="44" frame="0" pinned="true" x="2.7249595e+03" y="1.2313370e+03"/>
+        <location camera_id="59" frame="0" pinned="true" x="2.8139678e+03" y="1.2401196e+03"/>
+        <location camera_id="60" frame="0" pinned="true" x="2.7696855e+03" y="1.2427784e+03"/>
+        <location camera_id="61" frame="0" pinned="true" x="2.7687874e+03" y="1.2454734e+03"/>
+        <location camera_id="77" frame="0" pinned="true" x="2.7654658e+03" y="1.3601687e+03"/>
+        <location camera_id="78" frame="0" pinned="true" x="2.7299939e+03" y="1.3662250e+03"/>
+        <location camera_id="79" frame="0" pinned="true" x="2.6919263e+03" y="1.3428654e+03"/>
+      </marker>
+      <marker id="5" label="point 6">
+        <location camera_id="40" frame="0" pinned="true" x="2.8349580e+03" y="1.5958855e+03"/>
+        <location camera_id="42" frame="0" pinned="true" x="2.5194939e+03" y="1.5232174e+03"/>
+        <location camera_id="43" frame="0" pinned="true" x="2.4465078e+03" y="1.5002892e+03"/>
+        <location camera_id="44" frame="0" pinned="true" x="2.4198167e+03" y="1.1563903e+03"/>
+        <location camera_id="62" frame="0" pinned="true" x="2.9833745e+03" y="1.3402667e+03"/>
+        <location camera_id="80" frame="0" pinned="true" x="2.9700327e+03" y="1.3770487e+03"/>
+        <location camera_id="81" frame="0" pinned="true" x="2.9605830e+03" y="1.3845355e+03"/>
+      </marker>
+      <marker id="6" label="point 7">
+        <location camera_id="46" frame="0" pinned="true" x="3.0555474e+03" y="1.1942614e+03"/>
+        <location camera_id="47" frame="0" pinned="true" x="3.0019265e+03" y="1.2412679e+03"/>
+        <location camera_id="48" frame="0" pinned="true" x="2.9351824e+03" y="1.2823062e+03"/>
+        <location camera_id="49" frame="0" pinned="true" x="2.8424895e+03" y="1.2934890e+03"/>
+        <location camera_id="75" frame="0" pinned="true" x="2.7336992e+03" y="1.4804440e+03"/>
+        <location camera_id="76" frame="0" pinned="true" x="2.5085005e+03" y="1.4339227e+03"/>
+        <location camera_id="77" frame="0" pinned="true" x="2.3938401e+03" y="1.3532964e+03"/>
+      </marker>
+      <marker id="7" label="point 8">
+        <location camera_id="37" frame="0" pinned="true" x="2.9460303e+03" y="1.6102352e+03"/>
+        <location camera_id="38" frame="0" pinned="true" x="2.7328167e+03" y="1.6420824e+03"/>
+        <location camera_id="39" frame="0" pinned="true" x="2.5269727e+03" y="1.6062837e+03"/>
+        <location camera_id="66" frame="0" pinned="true" x="3.1981245e+03" y="1.4940662e+03"/>
+        <location camera_id="67" frame="0" pinned="true" x="3.0682361e+03" y="1.5438108e+03"/>
+        <location camera_id="68" frame="0" pinned="true" x="2.8683367e+03" y="1.5926340e+03"/>
+      </marker>
+    </markers>
+  </chunk>
+</document>
